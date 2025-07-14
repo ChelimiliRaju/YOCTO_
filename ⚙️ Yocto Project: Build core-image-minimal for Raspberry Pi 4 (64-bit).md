@@ -99,7 +99,7 @@ What it does:
 
 ## 6. Configure local.conf
 
-Edit conf/local.conf:
+Edit /Desktop/Yocto_Rc/poky/build/conf/local.conf:
 
 ```bash
 MACHINE ?= "raspberrypi4-64"
@@ -121,7 +121,7 @@ Keywords:
 ## 7. Configure bblayers.conf
 
 Add these layers to BBLAYERS:
-
+cd Desktop/Yocto_Rc/poky/build/conf/bblayers.conf
 ```bash
 BBLAYERS += " \
   ${TOPDIR}/../meta-raspberrypi \
