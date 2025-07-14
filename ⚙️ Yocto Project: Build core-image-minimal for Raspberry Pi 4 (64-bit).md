@@ -87,7 +87,8 @@ git clone -b kirkstone https://git.openembedded.org/meta-openembedded
 ```bash
 source oe-init-build-env build
 ```
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4c295cb9-aae8-46f1-b9f4-b7090fe4ff2a" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9ae73009-fbac-445a-824d-7257c124736f" />
+
 
 
 What it does:
