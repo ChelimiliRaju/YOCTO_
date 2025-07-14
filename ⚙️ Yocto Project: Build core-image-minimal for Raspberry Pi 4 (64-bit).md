@@ -8,9 +8,9 @@ Build a minimal Linux image (core-image-minimal) using the Yocto Project (Kirkst
 3.Directory Setup <br>
 4.Download Yocto & Layers <br>
 5.Initialize Build Environment<br>
-6.Configure local.conf
-7.Configure bblayers.conf
-8.Build the Image
-9.Output Artifacts
-10.Flash Image to SD Card
-11.First Boot on Raspberry Pi
+6.Configure local.conf<br>
+7.Configure bblayers.conf<br>
+8.Build the Image<br>
+9.Output Artifacts<br>
+10.Flash Image to SD Card<br>
+11.First Boot on Raspberry Pi<br>
