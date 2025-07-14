@@ -14,3 +14,10 @@ Build a minimal Linux image (core-image-minimal) using the Yocto Project (Kirkst
 9.Output Artifacts<br>
 10.Flash Image to SD Card<br>
 11.First Boot on Raspberry Pi<br>
+
+Yocto is a framework for creating custom Linux distributions for embedded systems.
+core-image-minimal is the smallest ready-to-use CLI image built using Yocto. It has:
+BusyBox shell
+Basic init system
+Minimal system services
+Target device: Raspberry Pi 4 (64-bit CPU)
