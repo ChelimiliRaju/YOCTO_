@@ -64,6 +64,8 @@ git clone -b kirkstone git://git.yoctoproject.org/poky poky-rpi
 cd poky-rpi
 git clone -b kirkstone https://git.yoctoproject.org/meta-raspberrypi
 git clone -b kirkstone https://git.openembedded.org/meta-openembedded
+<img width="1066" height="392" alt="image" src="https://github.com/user-attachments/assets/effb3b80-636d-4c4f-a01c-34d0f5cedcf2" />
+
 ```
 
 - poky: main Yocto repository
