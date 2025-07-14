@@ -60,7 +60,7 @@ Final bootable image includes:
 
 ---
 
-## Target Board (e.g., Rockchip, STM32MP1)
+## Target Board (e.g., Raspberry4-64)
 
 - The embedded board that runs the image built by Yocto.
 
