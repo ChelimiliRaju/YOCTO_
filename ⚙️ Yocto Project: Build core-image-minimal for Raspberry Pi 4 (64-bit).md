@@ -67,6 +67,8 @@ git clone -b kirkstone https://git.openembedded.org/meta-openembedded
 
 ```
 <img width="1066" height="392" alt="image" src="https://github.com/user-attachments/assets/ed03a2b9-2b5d-4405-8a50-876f534e67c3" />
+<img width="1873" height="955" alt="image" src="https://github.com/user-attachments/assets/eeb7aba0-adc2-44d2-801f-9cec5e7901dc" />
+
 
 
 - poky: main Yocto repository
