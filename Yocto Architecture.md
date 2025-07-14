@@ -1,9 +1,7 @@
 ## 📌 Yocto Project Architecture
 ![WhatsApp Image 2025-07-14 at 11 52 12_0f8484cb](https://github.com/user-attachments/assets/c24573da-54c3-4b34-a867-ebe0bd7545f8)
 
-# Yocto Project Architecture – Explained
-
-This document explains the complete architecture of the Yocto Project based on the architecture diagram. Each section has been explained in detail with color codes, flow, and definitions.
+# Yocto Project Architecture 
 
 ---
 
