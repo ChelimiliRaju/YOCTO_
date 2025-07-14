@@ -8,42 +8,8 @@ The **Yocto Project** is an open-source collaboration project that provides tool
 
 ---
 
-## Why Use Yocto?
 
-### 1. Custom Linux Distro for Any Hardware
-- Build a minimal or full-featured Linux image tailored to your target hardware (ARM, x86, RISC-V, etc.).
-- Choose what packages, drivers, tools, and services go into your embedded image.
-
-### 2. Highly Scalable & Modular
-- Everything is organized in layers and recipes.
-- Reuse existing layers (e.g., networking, UI, Qt, machine configs) or create new ones.
-- Ideal for managing multiple hardware variants or product lines.
-
-### 3. Reproducible Builds
-- Builds are deterministic—same input results in the same output.
-- Crucial for production and manufacturing.
-
-### 4. Cross-Compilation Toolchain Included
-- Automatically sets up cross-compilation toolchain for your target.
-- Saves time manually configuring GCC, libraries, and paths.
-
-### 5. Package and Dependency Management
-- Uses `BitBake` to manage complex dependency trees.
-- Supports both build-time and runtime dependencies.
-
-### 6. License and Security Compliance
-- Tracks open-source licenses.
-- Supports SBOM (Software Bill of Materials) generation and CVE scanning.
-
-### 7. Professional-Grade and Industry Standard
-- Trusted by Intel, NVIDIA, Texas Instruments, NXP, etc.
-- Supported by silicon vendors for working with custom SoCs.
-
-### 8. Supports Both Minimal and Complex Systems
-- Build a tiny console image with BusyBox (~10MB) or a full graphical UI with Qt.
-- Suitable for IoT devices and rich UI systems.
-
----
+![WhatsApp Image 2025-07-14 at 11 53 08_4ac88664](https://github.com/user-attachments/assets/1bfada86-7c36-4a93-8fe3-68eb8f91b069)
 
 ## Introduction to the Yocto Project
 
