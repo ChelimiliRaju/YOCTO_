@@ -1,4 +1,4 @@
-# weston
+# ⚙️ Yocto Project: Build core-image-weston for Raspberry Pi 4 (64-bit)
 
 # 🖼️ Yocto Weston Build for Raspberry Pi 4 (64-bit)
 
