@@ -1,4 +1,5 @@
 ## 📌 Yocto Project Architecture
+![WhatsApp Image 2025-07-14 at 11 52 12_0f8484cb](https://github.com/user-attachments/assets/c24573da-54c3-4b34-a867-ebe0bd7545f8)
 
 ### 1. Source Code
 The base metadata and recipes used by the build system to define what to build and how to build it. This includes software layers, configuration files, and recipe files.
