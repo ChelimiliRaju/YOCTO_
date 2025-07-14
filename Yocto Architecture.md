@@ -12,7 +12,7 @@ This document explains the complete architecture of the Yocto Project based on t
 ### 1. User Configuration
 - Comes from: `conf/local.conf`
 - Defines user-level settings:
-  - `MACHINE`, `DISTRO`, `IMAGE_FEATURES`, `BB_NUMBER_THREADS`, etc.
+  - `MACHINE`, `DISTRO`, `IMAGE_FEATURES` etc.
 
 ### 2. Metadata (.bb + patches)
 - BitBake recipes `.bb`, `.bbclass`, `.conf`
