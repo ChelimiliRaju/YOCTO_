@@ -200,5 +200,6 @@ The Yocto Project automates these steps per software package:
    - Validates licenses, runtime dependencies, and architecture.
 
 ---
+![IMG20250714104040](https://github.com/user-attachments/assets/4874d631-4e98-4f1a-aa20-22f2ad725ce1)
 
 > 📦 Yocto = Layers + Recipes + BitBake + Toolchain + Output Images
