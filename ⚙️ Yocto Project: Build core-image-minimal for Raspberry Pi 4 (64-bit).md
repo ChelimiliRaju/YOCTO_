@@ -54,7 +54,7 @@ sudo apt update && sudo apt install gawk wget git-core diffstat unzip texinfo gc
 ```bash
 mkdir -p ~/Desktop/Yocto_Rc && cd ~/Desktop/Yocto_Rc
 ```
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/86a49007-5847-4731-8860-98366da0a1c7" />
+
 
 ---
 
