@@ -109,7 +109,11 @@ ENABLE_UART = "1"
 ENABLE_VC4GRAPHICS = "1"
 PREFERRED_VERSION_linux-raspberrypi = "5.15%"
 EXTRA_IMAGE_FEATURES += "debug-tweaks"
+
+
 ```
+![Uploading Pastedn image.png…]()
+
 
 Keywords:
 - MACHINE: hardware platform
